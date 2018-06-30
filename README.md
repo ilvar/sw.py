@@ -8,6 +8,6 @@ python3 sw.py
 
 ## TODO
 
-[ ] Other DEs
-[ ] Other OSes
-[ ] Skip very small photos
+* Other DEs
+* Other OSes
+* Skip very small photos
